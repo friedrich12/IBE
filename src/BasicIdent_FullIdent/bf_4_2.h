@@ -2,7 +2,7 @@
 #ifndef _BF_4_2_H_
 #define _BF_4_2_H_
 
-#include <pbc.h>
+#include <pbc/pbc.h>
 #include <gmp.h>
 #include <stdio.h>
 #include <string.h>

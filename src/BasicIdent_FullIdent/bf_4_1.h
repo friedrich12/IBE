@@ -1,7 +1,7 @@
 #ifndef _BF_4_1_H_
 #define _BF_4_1_H_
 
-#include <pbc.h>
+#include <pbc/pbc.h>
 #include <gmp.h>
 #include <stdio.h>
 #include <string.h>
